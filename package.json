@@ -1,0 +1,11 @@
+{
+  "name": "learn-redux",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.24.1"
+  },
+  "scripts": {
+    "start": "browser-sync start --server --files \"**/*.css, **/*.html, **/*.jsx, **/*.js\""
+  }
+}
