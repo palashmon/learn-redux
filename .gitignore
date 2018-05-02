@@ -1,0 +1,9 @@
+# Misc
+.DS_Store
+
+# IDE - VSCode
+.vscode/*
+package-lock.json
+.eslintrc.js
+.eslintignore
+.editorconfig
