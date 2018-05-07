@@ -6,6 +6,7 @@
     "browser-sync": "^2.24.1"
   },
   "scripts": {
-    "start": "browser-sync start --server --files \"**/*.css, **/*.html, **/*.jsx, **/*.js\""
+    "start":
+      "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, **/*.jsx, !node_modules/**/*' --directory --port 7777"
   }
 }
