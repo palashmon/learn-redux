@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
-    "browser-sync": "^2.24.1"
+    "browser-sync": "^3.0.2"
   },
   "scripts": {
     "start":
